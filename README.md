@@ -11,4 +11,4 @@ Constructed binary tree is
 ```
     
 Output:
-    Diameter of given binary tree is 3
+    ```Diameter of given binary tree is 3```
