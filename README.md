@@ -6,7 +6,7 @@ Constructed binary tree is
  >         /   \
  >       2      3
  >     /  \
- >   4     5
+ >    4     5
     
     
 Output:
